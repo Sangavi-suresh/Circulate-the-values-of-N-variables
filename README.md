@@ -25,6 +25,7 @@ print the values it would be interchanged
 end the program
 
 ## Program:
+
 ```python
 #Program to circulate N values.
 #Developed by:sangavi 
@@ -37,7 +38,9 @@ n = int(input())
 ```
 
 ## Output:
+
 ![](./circular.png)
 
 ## Result:
+
 thus the circulation of n variable sussessfully executed
